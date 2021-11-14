@@ -13,6 +13,7 @@
  </p>
 
 **[The Odin Project](https://www.theodinproject.com/)** learner
+<!-- <p><a href="https://eloquentjavascript.net/index.html">Eloquent JavaScript</a> reader</p> -->
 
 
 <!---
