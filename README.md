@@ -15,6 +15,8 @@
 **[The Odin Project](https://www.theodinproject.com/)** learner
 <!-- <p><a href="https://eloquentjavascript.net/index.html">Eloquent JavaScript</a> reader</p> -->
 
+<a href="https://exercism.org/profiles/Twofold-One"><img src="https://d24y9kuxp2d7l2.cloudfront.net/packs/media/images/icons/exercism-with-logo-black-12acde3b7d18cbeee57746528c4e85e4.svg"></a>
+
 
 <!---
 Twofold-One/Twofold-One is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
