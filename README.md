@@ -14,14 +14,19 @@
 
 
 ### Studying platforms: ###
-**[The Odin Project](https://www.theodinproject.com/)** learner
-<!-- <p><a href="https://eloquentjavascript.net/index.html">Eloquent JavaScript</a> reader</p> -->
 
-<a href="https://exercism.org/profiles/Twofold-One"><img src="https://d24y9kuxp2d7l2.cloudfront.net/packs/media/images/icons/exercism-with-logo-black-12acde3b7d18cbeee57746528c4e85e4.svg"></a>
+<p>
+<a href="https://www.theodinproject.com/dashboard"><img src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg" width="70" height="70"></a>
+<a href="https://exercism.org/profiles/Twofold-One"><img src="https://d24y9kuxp2d7l2.cloudfront.net/packs/media/images/icons/exercism-with-logo-black-12acde3b7d18cbeee57746528c4e85e4.svg" width="70" height="70"></a>
+ </p>
 
 
 ### Books: ###
-Aditya Bhargava "Grokking Algorithms"
+
+<a href="https://www.manning.com/books/grokking-algorithms">Aditya Bhargava "Grokking Algorithms"<a/>
+ 
+<a href="https://eloquentjavascript.net/index.html">Marijn Haverbeke "Eloquent JavaScript, 3rd edition"</a>
+
 
 <!---
 Twofold-One/Twofold-One is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
