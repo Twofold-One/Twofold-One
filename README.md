@@ -14,7 +14,7 @@
  </p>
 
 ### Some Stats: ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&layout=compact)](https://github.com/Twofold-One/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&layout=compact)](https://github.com/Twofold-One?tab=repositories)
 
 ### Studying platforms: ###
 
