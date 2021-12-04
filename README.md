@@ -31,7 +31,10 @@
 <a href="https://eloquentjavascript.net/index.html">Marijn Haverbeke "Eloquent JavaScript, 3rd edition"</a>
 
 ### My latest apps: ###
+ <a href="https://twofold-one.github.io/cv-application/">CV Creator App<a/>
+  
  <a href="https://twofold-one.github.io/Weather-App/">Weather App<a/>
+ 
  
  
 <!---
