@@ -13,7 +13,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" height="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="70" height="70">
+<img src="https://grammy.dev/Y.png" width="70" height="70">
  </p>
+ 
+
 
 ### Some Stats: ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&layout=compact)](https://github.com/Twofold-One?tab=repositories)
