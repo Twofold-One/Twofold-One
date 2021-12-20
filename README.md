@@ -36,7 +36,7 @@
  
 <a href="https://eloquentjavascript.net/index.html">Marijn Haverbeke "Eloquent JavaScript, 3rd edition"</a>
 
-### My latest apps: ###
+### My recent apps: ###
  
  <a href="https://twofold-one.github.io/memory-card/">Guitar shapes memory card game<a/>
  
