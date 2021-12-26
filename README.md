@@ -37,7 +37,9 @@
 <a href="https://eloquentjavascript.net/index.html">Marijn Haverbeke "Eloquent JavaScript, 3rd edition"</a>
 
 ### My recent apps: ###
- 
+
+ <a href="https://twofold-one.github.io/shopping-cart/">Guitar Shop<a/>
+
  <a href="https://twofold-one.github.io/memory-card/">Guitar shapes memory card game<a/>
  
  <a href="https://twofold-one.github.io/cv-application/">CV Creator App<a/>
