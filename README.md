@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"  width="50" height="50">
-<img src="https://grammy.dev/Y.png" width="70" height="70">
+<img src="https://grammy.dev/Y.png" width="50" height="50">
  </p>
  
 
