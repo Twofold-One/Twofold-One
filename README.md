@@ -15,9 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"  width="50" height="50">
 <img src="https://grammy.dev/Y.png" width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
  </p>
- 
-
 
 ### Some Stats: ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&layout=compact)](https://github.com/Twofold-One?tab=repositories)
