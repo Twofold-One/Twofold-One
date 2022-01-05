@@ -1,6 +1,6 @@
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
-<p>Web development padawan</p>
+<p>Full-stack Web Development Padawan</p>
 
 ### Technologies of interest: ###
 
