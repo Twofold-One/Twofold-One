@@ -11,7 +11,7 @@
 
 
 ### Stats for my GitHub codebase: ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&layout=compact)](https://github.com/Twofold-One?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&theme=dracula&langs_count=8)](https://github.com/Twofold-One?tab=repositories)
 
 ### Favorite studying platforms: ###
 
