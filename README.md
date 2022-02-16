@@ -20,9 +20,21 @@
 <a href="https://fullstackopen.com/en/"><img src="https://camo.githubusercontent.com/83a58e67ad25f3427f5312dbaa814af78c6a9aae6341e84288933387c45c7a6b/68747470733a2f2f636f75727365732e68656c73696e6b692e66692f73697465732f64656661756c742f66696c65732f7374796c65732f6c617267655f776974685f6d616e75616c63726f702f7075626c69632f636f757273652d6865616465722d696d616765732f66756c6c737461636b2e706e673f69746f6b3d324639653061594c" width="70" height="70"></a>
 <a href="https://exercism.org/profiles/Twofold-One"><img src="https://d24y9kuxp2d7l2.cloudfront.net/packs/media/images/icons/exercism-with-logo-black-12acde3b7d18cbeee57746528c4e85e4.svg" width="70" height="70"></a>
 <a href="https://www.codewars.com/users/Twofold-One"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="70" height="70"></a>
- 
- 
 </p>
+
+### My recent apps: ###
+
+ <a href="https://twofold-one.github.io/shopping-cart/">Guitar Shop<a/>
+
+ <a href="https://twofold-one.github.io/memory-card/">Guitar shapes memory card game<a/>
+ 
+ <a href="https://twofold-one.github.io/cv-application/">CV Creator App<a/>
+  
+<!--  <a href="https://twofold-one.github.io/Weather-App/">Weather App<a/> -->
+ 
+ 
+ 
+<!---
 
 <details><summary><b>BOOKS</b></summary>
 <p>
@@ -34,19 +46,6 @@
 </p>
 </details>
 
-### My recent apps: ###
-
- <a href="https://twofold-one.github.io/shopping-cart/">Guitar Shop<a/>
-
- <a href="https://twofold-one.github.io/memory-card/">Guitar shapes memory card game<a/>
- 
- <a href="https://twofold-one.github.io/cv-application/">CV Creator App<a/>
-  
- <a href="https://twofold-one.github.io/Weather-App/">Weather App<a/>
- 
- 
- 
-<!---
 Twofold-One/Twofold-One is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <h4>Programming languges:</h4>
