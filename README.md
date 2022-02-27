@@ -24,6 +24,8 @@
 
 ### My recent apps: ###
 
+ <a href="https://quotes-memorizer.herokuapp.com/swagger/index.html">Quotes Memorizer App API<a/>
+
  <a href="https://twofold-one.github.io/shopping-cart/">Guitar Shop<a/>
 
  <a href="https://twofold-one.github.io/memory-card/">Guitar shapes memory card game<a/>
