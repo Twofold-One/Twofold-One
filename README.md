@@ -1,7 +1,6 @@
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
 <p>Full-stack Web Development Padawan</p>
-<p>I'm interested in Web3 and particularly DeFi at the moment</p>
 
 ### Technologies I'm working with: ###
 
