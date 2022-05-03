@@ -1,6 +1,7 @@
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
 <p>Full-stack Web Development Padawan</p>
+<p>I really like to write on ***Go***, ***JS/TypeScript*** and ***Solidity***</p>
 
 ### Technologies I'm working with: ###
 
