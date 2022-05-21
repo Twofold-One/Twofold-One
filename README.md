@@ -1,7 +1,6 @@
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
 <p>Full-stack Web Development Padawan</p>
-<p>I really like to write on <b>Go</b>, <b>JS/TypeScript</b> and <b>Solidity</b></p>
 
 ### Technologies I'm working with: ###
 
@@ -89,3 +88,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://eloquentjavascript.net/index.html">Marijn Haverbeke "Eloquent JavaScript, 3rd edition"</a>
 
 --->
+  
+<!-- <p>I really like to write on <b>Go</b>, <b>JS/TypeScript</b> and <b>Solidity</b></p> -->
