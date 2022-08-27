@@ -8,7 +8,7 @@
 
 
 
-### Stats for my GitHub codebase: ###
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&card_width=1000&hide_title=true)](https://github.com/Twofold-One?tab=repositories)
  
 <!---
@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>Full-stack Web Development Padawan</p>
+
+### Stats for my GitHub codebase: ###
 
 --->
   
