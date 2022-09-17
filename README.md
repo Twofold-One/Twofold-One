@@ -1,3 +1,11 @@
+## Main stack: ##
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,postgres,mongo&theme=dark)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&theme=swift&hide_title=true&border_radius=15&hide_border=true&card_width=336)](https://github.com/Twofold-One?tab=repositories)
+
+<!---
+Previous page
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,postgres,mongo" />
@@ -8,12 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&theme=swift" />
   </a>
 </p>
-
-<!---
-## Main stack: ##
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,postgres,mongo&theme=dark&perline=4)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&theme=swift)](https://github.com/Twofold-One?tab=repositories)
-Previous page
 
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
