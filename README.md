@@ -1,3 +1,13 @@
+### Main stack: ###
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,postgres,mongo&theme=dark&perline=4)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&theme=dark)](https://github.com/Twofold-One?tab=repositories)
+ 
+
+
+<!---
+Previous page
+
 ## Hi, I’m Evan (**@Twofold-One**) ##
 
 ### Technologies I'm working with: ###
@@ -6,10 +16,11 @@
 |     :---:    |     :---:      |     :---:     |     :---:     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"  width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  width="50" height="50"> <img src="https://grammy.dev/Y.png" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"> |
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twofold-One&langs_count=8&layout=compact&card_width=1000&hide_title=true)](https://github.com/Twofold-One?tab=repositories)
+
+--->
+ 
+ 
  
 <!---
 
